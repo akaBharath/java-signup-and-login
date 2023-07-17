@@ -120,7 +120,7 @@ public class Account {
                 """);
     }
 
-    public static void goSleep(){
+    public static void goSleep() {
         try {
             Thread.sleep(2000);
         } catch (InterruptedException e) {
