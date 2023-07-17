@@ -22,9 +22,7 @@ public class Main{
                 } else if (input.equals("4")) {
                     a.deleteAccount();
                     Account.menu();
-                } else if (input.equalsIgnoreCase("exit") || input.equalsIgnoreCase("quit") ||
-                        input.equalsIgnoreCase("ex") || input.equalsIgnoreCase("q"))
-                {
+                } else if (input.equalsIgnoreCase("exit") || input.equalsIgnoreCase("quit") || input.equalsIgnoreCase("ex") || input.equalsIgnoreCase("q")) {
                     break;
                 } else {
                     main(args);
