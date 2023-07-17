@@ -1,3 +1,9 @@
+/*
+Author: Bharath Bairy (instagram: @akabharathbairy)
+Date modified: 17-07-2023
+Time modified: 11:51 AM GMT+5:30
+*/
+
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.regex.Pattern;
