@@ -1,3 +1,9 @@
+/*
+Author: Bharath Bairy (instagram: @akabharathbairy)
+Date modified: 17-07-2023
+Time modified: 11:48 AM GMT+5:30
+*/
+
 import java.util.Scanner;
 
 public class Main{
